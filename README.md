@@ -1,9 +1,12 @@
 # todolist
 Todo List For Listed Interview question
 
-In the terminal use the command composer install for vendor files installation
-php artisan migrate for migration of tables or i attach the sql files in root folder todolist.sql
-php artisan serve for run the application
+In the terminal use the command 
+(composer dump-autoload) 
+for vendor files installation
+(php artisan migrate) for migration of tables or i attach the sql files in root folder todolist.sql
+(php artisan serve) 
+for run the application
 
 In this application a task creation input filled is there where you can create the task and delete the task and mark as completed.
 
